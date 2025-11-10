@@ -1,3 +1,5 @@
+link youtube : https://youtu.be/0-tJoQETZdM?si=edshSSk7NkLEMPfC 
+
 <img width="1920" height="1080" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/8baf3c58-b803-45be-b802-0fa45bd83a83" />
 Saya menambahkan satu PC baru (PC-C) di S1 pada port Fa0/8, lalu saya aktifkan kembali port tersebut (no shutdown) dan memasukkannya ke VLAN 30 (Guest). Setelah itu konfigurasi VLAN dan trunk tetap saya lanjutkan seperti instruksi modul.
 
